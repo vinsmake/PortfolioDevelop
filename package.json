@@ -10,6 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^4.3.0",
     "@astrojs/mdx": "^1.1.4",
     "@astrojs/react": "^3.0.4",
     "@astrojs/renderer-react": "^0.5.0",
@@ -20,6 +21,7 @@
     "@types/react-dom": "^18.2.15",
     "astro": "^3.5.3",
     "axios": "^1.6.2",
+    "node": "^21.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.18.0"
